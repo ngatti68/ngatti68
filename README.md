@@ -37,7 +37,7 @@ Actualmente explorando el mundo del backend con Node.js para complementar mi sta
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/norberto-gatti-1a42aa58/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/norberto-gatti-1a42aa58/)
 - 📧 norberto.o.gatti@gmail.com
 
 ---
